@@ -1,0 +1,23 @@
+{
+  "name": "multiverse",
+  "version": "1.0.0",
+  "description": "POC for recko",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dev-dependencies": {
+    "jest": "^23.5.0",
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "sequelize": "4.38.0",
+    "body-parser": "^1.18.3",
+    "sequelize-cli": "4.0.0",
+    "mysql2": "1.6.1",
+    "express": "^4.16.3"
+  }
+}
