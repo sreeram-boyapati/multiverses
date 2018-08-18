@@ -10,20 +10,19 @@ Start a local mysql server with `root` and `root` and create a db `recko`
 
 # Frameworks Used
 
-Node v9
-Sequelize
-Express
+Node v9 </br>
+Sequelize </br>
+Express </br>
+
+## SCHEMA
+
+<b>PERSON</b>
+ID </br>
+POWER </br>
+FAMILY_ID </br>
+UNIVERSE_ID </br>
 
 ## API
-
-Schema
-
-Person
-----------
-ID
-POWER
-FAMILY_ID
-UNIVERSE_ID
 
 1. GET `/universe/:id/families` - To get all the families in a particular universe
 2. GET `/family/:id/power` - To get the sum of all power of families in each particular universe
