@@ -8,7 +8,7 @@ Start a local mysql server with `root` and `root` and create a db `recko`
 4. Start the server using `npm start` at port 3000
 
 
-# Frameworks Used
+## Tools Used
 
 Node v9 </br>
 Sequelize </br>
